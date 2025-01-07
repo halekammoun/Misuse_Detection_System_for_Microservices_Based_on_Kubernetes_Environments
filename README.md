@@ -112,7 +112,7 @@ print("Predictions:", y_pred_loaded)
 
 ## Results
 
-- The model achieved an accuracy of approximately 98%.
+- The model achieved an accuracy of approximately 99%.
 - The classification report provides detailed precision, recall, and F1-score metrics for each class.
 
 ## Conclusion
